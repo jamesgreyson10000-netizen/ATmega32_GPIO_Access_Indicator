@@ -1,0 +1,4 @@
+C:/Users/Hon.Juma/Desktop/ATmega32_GPIO_Access_Indicator/group1/_build/group1/default/CMakeFiles/group1_default_default_AVR_GCC_compile.dir
+C:/Users/Hon.Juma/Desktop/ATmega32_GPIO_Access_Indicator/group1/_build/group1/default/CMakeFiles/group1_default_image_qHyUjCiQ.dir
+C:/Users/Hon.Juma/Desktop/ATmega32_GPIO_Access_Indicator/group1/_build/group1/default/CMakeFiles/edit_cache.dir
+C:/Users/Hon.Juma/Desktop/ATmega32_GPIO_Access_Indicator/group1/_build/group1/default/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Hon.Juma/Desktop/ATmega32_GPIO_Access_Indicator/group1/_build/group1/default",
+  "command": "C:\\Users\\Hon.Juma\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -D__ATmega32A__ -Ddefault=default -IC:/Users/Hon.Juma/.mchp_packs/Microchip/ATmega_DFP/3.6.299/include -x c -fdiagnostics-color=always -g -gdwarf-2 -mmcu=atmega32a -BC:/Users/Hon.Juma/.mchp_packs/Microchip/ATmega_DFP/3.6.299/gcc/dev/atmega32a -x c -c -funsigned-char -funsigned-bitfields -O1 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\group1_default_default_AVR_GCC_compile.dir\\C_\\Users\\Hon.Juma\\Desktop\\ATmega32_GPIO_Access_Indicator\\group1\\main.c.o -c C:\\Users\\Hon.Juma\\Desktop\\ATmega32_GPIO_Access_Indicator\\group1\\main.c",
+  "file": "C:/Users/Hon.Juma/Desktop/ATmega32_GPIO_Access_Indicator/group1/main.c",
+  "output": "C:/Users/Hon.Juma/Desktop/ATmega32_GPIO_Access_Indicator/group1/_build/group1/default/CMakeFiles/group1_default_default_AVR_GCC_compile.dir/C_/Users/Hon.Juma/Desktop/ATmega32_GPIO_Access_Indicator/group1/main.c.o"
+}
+]
